@@ -131,7 +131,7 @@ The **aws_iot_config** file is a text file that contains credentials and setting
 
 9. Click the **Folder** button from C Code Interface to open the created project directory. Open the **neoOBD2PRO_WIFI_CC32XX** folder. From there, create a new folder with name **Release**.
 
-	![alt text](../../docs/neoobd2_pro/images/images/59-j1979_program_app.PNG "Create a Release folder")
+	![alt text](../../docs/neoobd2_pro/images/59-j1979_program_app.PNG "Create a Release folder")
 
 10. Copy and paste the output binary file (.bin) from your CCS project into the **Release** folder.
 
